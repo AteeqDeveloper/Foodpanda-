@@ -1,0 +1,22 @@
+.container-fluid{
+    /* border:1px solid black;   */
+    height: 10vh;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+}
+.container-fluid>.logo{
+margin-top: -4%;
+}
+.container-fluid> .button{
+    margin-top: 20px;
+}
+#b1{
+    background:white;
+    width: 10vh;
+}
+#b2{
+  background:#C21760;  
+}
+.background{
+    background:rgb(241, 240, 240)
+}
